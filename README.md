@@ -1,2 +1,2 @@
 # Movie_Pridiction
-Predict Movie Box Office revenue 
+Predict Movie Box Office revenue with univariate Linear regression
